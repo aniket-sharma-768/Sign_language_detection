@@ -10,7 +10,7 @@ Install the following dependecies using pip command
 * Keras
 
 ## Dataset 
-[Kaggle MNIST Dataset(https://www.kaggle.com/datamunge/sign-language-mnist)
+[Kaggle MNIST Dataset link](https://www.kaggle.com/datamunge/sign-language-mnist)
 
 ## Implementation
 
